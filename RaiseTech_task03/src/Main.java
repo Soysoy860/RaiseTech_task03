@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * RaiseTech課題03 HashMap/例外処理
+ */
 public class Main {
     public static void main(String[] args) {
         Map<String, Integer> score = new HashMap<>();
